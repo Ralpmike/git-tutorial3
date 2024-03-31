@@ -1,5 +1,5 @@
 
-console.log("first commit 1");
+//commit conflict
 
 console.log("second commit 2");
 
